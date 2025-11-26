@@ -1,0 +1,27 @@
+{
+  "name": "Xover",
+  "symbol": "XOR",
+  "description": "$XOR (Xover) is a community-driven token on Solana with a fixed supply of 10 billion. $XOR focuses on chain, interactions, and ecosystem experimentation, supported by transparent token supply and active community participation",
+  "image": "https://raw.githubusercontent.com/XG77Z10/XOR/main/logo.png",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/XG77Z10/XOR/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "socials": {
+      "twitter": "https://x.com/XOR_Dev",
+      "telegram": "https://t.me/xover_online",
+      "website": "https://xornetwork.com"
+    }
+  },
+  "extensions": {
+    "website": "https://xornetwork.com",
+    "twitter": "https://x.com/XOR_Dev",
+    "telegram": "https://t.me/xover_online"
+  }
+}

@@ -15,12 +15,13 @@
     ],
     "socials": {
       "twitter": "https://x.com/XOR_Dev",
-      "telegram": "https://t.me/xover_online"
+      "telegram": "https://t.me/xover_online",
+      "website": "https://xornetwork.com"
     }
   },
   "extensions": {
+    "website": "https://xornetwork.com",
     "twitter": "https://x.com/XOR_Dev",
     "telegram": "https://t.me/xover_online"
   }
-
 }
